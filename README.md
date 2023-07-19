@@ -4,7 +4,7 @@
 
 本仓库目前官方地址：https://git.unlock-music.dev/um/web
 
-你所看到的这个仓库是依照 MIT 协议授权的，除electron部分（不限于electron构建、批量下载改zip压缩后输出）外，代码与[本人](https://github.com/dfvips)无关。
+你所看到的这个仓库是依照 MIT 协议授权的，除electron部分（不限于electron构建、批量下载改zip压缩后输出）外，代码与[本人](https://github.com/wzsnb)无关。
 
 # Unlock Music 音乐解锁 Electron 应用程序
 [![Build Status](https://ci.unlock-music.dev/api/badges/um/web/status.svg)](https://github.com/dfvips/unlock-music-electron)
